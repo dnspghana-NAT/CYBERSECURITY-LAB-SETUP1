@@ -56,7 +56,8 @@ The Theoretical workflow of virtual Laboratory Setup:
 6. configure Kali Linux Ip settings
 7. Take snapshot of the VM
 
-##🚀 Practical Workflow of Laboratory Setup
+## 🚀 Practical Workflow of Laboratory Setup
+
 **Step1. Installation of 7-zip**
 
 **What was Done**
@@ -72,7 +73,7 @@ The VirtualBox was downloaded from their official website and installed. The Vir
 ![ Image of VirtualBox Installation phase](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/f33377384b6f6eeceb193fc9fcfe41ed0ad7ae6d/Virtual%20Box%20Installation%20phase.PNG) 
 ![ImageofVirtualBoxInstallation](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/1b7457d3b27b1a3c40a3549709947c2e8d42c74f/Virtual%20Box%20Installation%20phase1.PNG)
 
-**Step 3. Nat Network Configuration**
+*⚙️*Step 3. Nat Network Configuration**
 
 **what was Done**
 Nat Network of Ipv4 of 10.0.0.0/24 was configured and DHCP also enabled on the VirtualBox. This helps create a controlled space for multiple Virtual Machine communicate with each other as well as the external Cyberspace.
@@ -90,7 +91,7 @@ Kali Linux was downloaded from their website. extracted with 7-zip and imported 
 
 ![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/00fb9731863137210558062f8b3e9762af39845c/Kali%20Linux%20Desktop%20Preview.PNG)
 
-**Step 5. Kali Linux Network Configuration**
+**⚙️Step 5. Kali Linux Network Configuration**
 
 **What was Done**
 The Kali Linux Virtual Machine Network was manually set; gateway and DNS configure. This is necessary to enable the Kali Linux have connectivity and communication with other Virtual Machines that will set in the future.
