@@ -86,8 +86,15 @@ Nat Network of Ipv4 of 10.0.0.0/24 was configured and DHCP also enabled on the V
 **What was Done**
 Kali Linux was downloaded from their website. extracted with 7-zip and imported into the VirtualBox. After the importation the Kali Linux Virtual Machine was booted in order to commence the IPV4 Network configuration
 
-**The Image Kali Linux Virtual Machine after Booting up**
+**The Image of Kali Linux Virtual Machine after Booting up**
 
+![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/00fb9731863137210558062f8b3e9762af39845c/Kali%20Linux%20Desktop%20Preview.PNG)
+
+**Step 5. Kali Linux Network Configuration**
+
+**What was Done**
+The Kali Linux Virtual Machine Network was manually set; gateway and DNS configure. This is necessary to enable the Kali Linux have connectivity and communication with other Virtual Machines that will set in the future.
+**The Image Below was the result of the Configuration**
 ![]()
 
 
