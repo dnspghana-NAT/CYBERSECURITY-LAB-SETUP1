@@ -95,6 +95,7 @@ Kali Linux was downloaded from their website. extracted with 7-zip and imported 
 **What was Done**
 The Kali Linux Virtual Machine Network was manually set; gateway and DNS configure. This is necessary to enable the Kali Linux have connectivity and communication with other Virtual Machines that will set in the future.
 **The Image Below was the result of the Configuration**
+![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/012c4705bb7e2b99348e66b177e036761d5f6cd4/Kali%20Linux%20Network%20Adapter%20configuration.PNG)
 ![]()
 
 
