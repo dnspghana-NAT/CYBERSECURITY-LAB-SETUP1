@@ -112,7 +112,7 @@ The final configuration of Kali was initiated by taking a snapshot of the virtua
 **Step 6. Laboratory Setup Verification and Functionality**
 |TEST|COMMAND|EXPECTED RESULT|
 |----|-------|---------------|
-|Check Kali IP|IPa|           |
+|Check Kali IP|IPa| ![]()          |
 |Gateway|ping 10.0.0.1|       |
 |Internet connectivity|ping 8.8.8.8|    |
 |DNS Resolution|nslookup www.networkwalks.com|    |
