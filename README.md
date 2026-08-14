@@ -104,8 +104,19 @@ The Kali Linux Virtual Machine Network was manually set; gateway and DNS configu
 
 **What was Done**
 The final configuration of Kali was initiated by taking a snapshot of the virtual machine which represent a clean baseline for the virtual space for Cybersecurity practices, and this is necessary because it serves a backup for any damage that may occur during process testing. 
-**The shot was dated for easy record as depicted in the graphical image below: **
-![]()
+
+**The shot was dated for easy record as depicted in the graphical image below:**
+
+![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/79ab68dcbe53a457a9e20d155cf7e322cf5824b6/Kali%20Snapshot.PNG)
+
+**Step 6. Laboratory Setup Verification and Functionality**
+|TEST|COMMAND|EXPECTED RESULT|
+|----|-------|---------------|
+|Check Kali IP|IPa|           |
+|Gateway|ping 10.0.0.1|       |
+|Internet connectivity|ping 8.8.8.8|    |
+|DNS Resolution|nslookup www.networkwalks.com|    |
+|Verify Nmap| Nmap--v|                      |
 
 
 
