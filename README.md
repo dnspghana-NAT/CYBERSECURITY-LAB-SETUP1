@@ -1,5 +1,5 @@
 # CYBERSECURITY-LAB-SETUP1
-## Project Purpose and introduction
+## 🎯Project Purpose and introduction
 Cybersecurity involves the practice of protecting computers, servers, mobile devices, networks, and data from digital attacks, theft, or unauthorized access. Its main goal is to keep private information safe and stop hackers from breaking into electronic systems. Some of the key preliminary stages of Cybersecurity entails mobilization and organization of digital resources necessary for the creation and building of virtual space which provide an isolated and a controlled environment for penetration testing and ethical hacking practice. The secure virtual space is crucial for the following Cybersecurity practices:
 1. Foot printing and reconnaissance.
 2.  Network and port scanning
@@ -17,7 +17,7 @@ The project objectives are:
 6.	Verify network connectivity and DNS resolution through ping command
 7.	Take a clean Kali Linux virtual machine for recovery
 
-## System Laboratory Architecture/Resources
+## ⚙️Laboratory Architecture/Resources
 |System components| Resources and configuration|
 |-----------------|----------------------------|
 |Host OS          |Windows                     |
@@ -46,7 +46,7 @@ The project objectives are:
 6. IPV4 Addressing
 7. Kali Linux VM Snapshot
 
-## Virtual Laboratory Setup
+## 🚀Virtual Laboratory Setup
 The Theoretical workflow of virtual Laboratory Setup:
 1. Download and Install 7-zip
 2. download and install Oracle VirtualBox
@@ -56,7 +56,7 @@ The Theoretical workflow of virtual Laboratory Setup:
 6. configure Kali Linux Ip settings
 7. Take snapshot of the VM
 
-## Practical Workflow of Laboratory Setup
+##🚀 Practical Workflow of Laboratory Setup
 **Step1. Installation of 7-zip**
 
 **What was Done**
@@ -109,14 +109,42 @@ The final configuration of Kali was initiated by taking a snapshot of the virtua
 
 ![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/79ab68dcbe53a457a9e20d155cf7e322cf5824b6/Kali%20Snapshot.PNG)
 
-**Step 6. Laboratory Setup Verification and Functionality**
+**✅Step 6. Laboratory Setup Verification and Functionality**
 |TEST|COMMAND|EXPECTED RESULT|
 |----|-------|---------------|
 |Check Kali IP|IPa| ![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/c16e330eb7a841a84ea10855f10fc4ca80af0052/Kali%20ip%20check.PNG)          |
 |Gateway|ping 10.0.0.1|![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/9dc15d33246c9f4e9b59b171c185daff0aa7e23e/ping%20gateway.PNG)       |
 |Internet connectivity|ping 8.8.8.8|![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/2cd4422d9ac61b4a7d96625cba6ec0a97720497b/ping%208.8.8.8.PNG)    |
 |DNS Resolution|nslookup www.networkwalks.com|![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/ddd79adff66c51c293d5127499fdad426ceb4ff6/nslookup.PNG)    |
-|Verify Nmap| Nmap--v|![]()                      |
+|Verify Nmap| Nmap--v|![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/4107bdb2fca97caba5ff45a1e2a278b4c790823a/Nmap%20v.PNG)                      |
 
+**🔑Key lessons Learned**
 
+1.	I learned how to use the host system resource to create a virtual space for Cybersecurity practices
+2.	A NAT Network allows multiple Virtual Machines connected to the same virtual network to communicate with one another while providing network address translation for external connectivity.
+3.	I have also learned how to upgrade my old installed virtual box to version 7.2.14 without uninstalling the old one but rather moving to control panel on the host machine, programs, clicking on the old one and then click on remove and back to run the new version on the desktop. The interesting thing was that ,step did not delete my previously install window 10 from the virtual machine
+4.	Finally I learned that taking a snapshot of the VM serve as  backup for recovering in case of virtual machine failure.
 
+**Challenges and Solution**
+
+1.	After the manual configuration of IPV4 address of the Kali Linux  the command ip a was only displaying the loopback and other. However after entering the command eth0 down and eth0 up the Kali IP address 0f 10.0.0.6 was displayed
+2.		Screen recording of the procedure or the steps of the configuration was key challenge I face notwithstanding I reverted to taking screenshots
+   
+**🔒Security and Ethical use**
+
+The laboratory was purposefully designed and build for only ethical hacking and educational practices
+
+**👨‍🏫Mentor**
+
+Waqas Karim [CCIE]
+I appreciate your Technical Insight and guidance throughout the internship. I can never forget your passion and the drive which have been a pillar of motivation since I started this journey with you.
+
+**Author**
+
+Nathaniel Apuru Avaraako
+
+Cybersecurity Professional B082.
+
+IT Diploma B080.6
+
+Linked in: www.linkedin.com/in/nathaniel-apuru-avaraako-7b9620404
