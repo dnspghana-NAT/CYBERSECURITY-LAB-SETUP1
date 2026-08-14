@@ -67,9 +67,9 @@ The Theoretical workflow of virtual Laboratory Setup:
 **What was Done**
 The VirtualBox was downloaded from their official website and installed. The VirtualBox provide a Virtual space necessary for Cybersecurity practices. It also creates a platform to run multiple Virtual Machine in addition to Kali Linux.
 
-**Below was a start Image of VirtualBox Installation**
 
-https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/de44f9afe86a83daf3a147460da07c3b1d3b8eae/Virtual%20Box%20Installation%20phase1.PNG
+
+
 
 
 
