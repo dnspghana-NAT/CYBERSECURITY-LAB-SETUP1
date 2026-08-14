@@ -115,7 +115,7 @@ The final configuration of Kali was initiated by taking a snapshot of the virtua
 |Check Kali IP|IPa| ![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/c16e330eb7a841a84ea10855f10fc4ca80af0052/Kali%20ip%20check.PNG)          |
 |Gateway|ping 10.0.0.1|![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/9dc15d33246c9f4e9b59b171c185daff0aa7e23e/ping%20gateway.PNG)       |
 |Internet connectivity|ping 8.8.8.8|![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/2cd4422d9ac61b4a7d96625cba6ec0a97720497b/ping%208.8.8.8.PNG)    |
-|DNS Resolution|nslookup www.networkwalks.com|![]()    |
+|DNS Resolution|nslookup www.networkwalks.com|![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/ddd79adff66c51c293d5127499fdad426ceb4ff6/nslookup.PNG)    |
 |Verify Nmap| Nmap--v|![]()                      |
 
 
