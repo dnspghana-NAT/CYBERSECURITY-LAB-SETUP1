@@ -69,9 +69,15 @@ The VirtualBox was downloaded from their official website and installed. The Vir
 
 **Below was an Image of the VrtualBox Installation**
 
-![ Image of VirtualBox Installation phase](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/f33377384b6f6eeceb193fc9fcfe41ed0ad7ae6d/Virtual%20Box%20Installation%20phase.PNG) ()
+![ Image of VirtualBox Installation phase](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/f33377384b6f6eeceb193fc9fcfe41ed0ad7ae6d/Virtual%20Box%20Installation%20phase.PNG) 
+![ImageofVirtualBoxInstallation](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/1b7457d3b27b1a3c40a3549709947c2e8d42c74f/Virtual%20Box%20Installation%20phase1.PNG)
 
+**Step 3. Nat Network Configuration**
 
+**what was Done**
+Nat Network of Ipv4 of 10.0.0.0/24 was configured and DHCP also enabled on the VirtualBox. This helps create a controlled space for multiple Virtual Machine communicate with each other as well as the external Cyberspace.
+
+![]()
 
 
 
