@@ -77,6 +77,17 @@ The VirtualBox was downloaded from their official website and installed. The Vir
 **what was Done**
 Nat Network of Ipv4 of 10.0.0.0/24 was configured and DHCP also enabled on the VirtualBox. This helps create a controlled space for multiple Virtual Machine communicate with each other as well as the external Cyberspace.
 
+**The Result of the configuration is Shown Below**
+
+![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/301de8426cb266ee285b8c8b6fa26fc121f964e4/Virtual%20Box%20Nat%20Network%20Set%20Up.PNG)
+
+**Step 4. Kali Linux Virtual Machine Setup**
+
+**What was Done**
+Kali Linux was downloaded from their website. extracted with 7-zip and imported into the VirtualBox. After the importation the Kali Linux Virtual Machine was booted in order to commence the IPV4 Network configuration
+
+**The Image Kali Linux Virtual Machine after Booting up**
+
 ![]()
 
 
