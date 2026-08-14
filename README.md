@@ -112,11 +112,11 @@ The final configuration of Kali was initiated by taking a snapshot of the virtua
 **Step 6. Laboratory Setup Verification and Functionality**
 |TEST|COMMAND|EXPECTED RESULT|
 |----|-------|---------------|
-|Check Kali IP|IPa| ![]()          |
-|Gateway|ping 10.0.0.1|       |
-|Internet connectivity|ping 8.8.8.8|    |
-|DNS Resolution|nslookup www.networkwalks.com|    |
-|Verify Nmap| Nmap--v|                      |
+|Check Kali IP|IPa| ![](https://github.com/dnspghana-NAT/CYBERSECURITY-LAB-SETUP1/blob/c16e330eb7a841a84ea10855f10fc4ca80af0052/Kali%20ip%20check.PNG)          |
+|Gateway|ping 10.0.0.1|![]()       |
+|Internet connectivity|ping 8.8.8.8|![]()    |
+|DNS Resolution|nslookup www.networkwalks.com|![]()    |
+|Verify Nmap| Nmap--v|![]()                      |
 
 
 
